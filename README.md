@@ -62,4 +62,13 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 ## 🚀 Live Demo
 
-👉 Click here to view the live demo: http://ecom.bdbusiness.top/
+🔗 [Click here to view the live demo](https://ecom.bdbusiness.top)
+
+🔐 **Admin Panel:**  
+👉 [https://ecom.bdbusiness.top/admin](https://ecom.bdbusiness.top/admin)  
+- **Email:** admin@gmail.com  
+- **Password:** 12345678
+
+> Note: This is a demo version of the multivendor eCommerce platform built with Laravel.  
+> Vendors and customers can register directly from the frontend.
+
